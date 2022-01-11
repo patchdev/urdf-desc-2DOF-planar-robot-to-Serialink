@@ -1,12 +1,10 @@
 # urdf-desc-2DOF-planar-robot-to-Serialink
 Interpretation of a description of a 2 degrees of freedom from an URDF file into SerialLink RBT10
 
-## Information
-Proyect created 2021 Q1
-
-Robotics Toolbox 10
-
-Matlab / Octave
+**Date** 2021 Q1  
+**Author** Diego P  
+Robotics Toolbox 10  
+Matlab / Octave  
 
 
 ## Description
